@@ -1,7 +1,6 @@
 """
 #####################################################################################################################
-GOLD Blind Docking Binding Site Extractor
-=================================================================
+Title: GOLD Blind Docking Binding Site Extractor
 
 Author      : Mine Isaoglu, Ph.D.
 Principal Investigator: Serdar Durdagi, Ph.D.
