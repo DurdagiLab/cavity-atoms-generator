@@ -8,7 +8,7 @@ This tool is based on a custom script developed to support blind docking studies
 
 To run:
 
-> python extract_atom_indices.py --pdb protein.pdb --out cavity.atoms
+> python cavity-atoms-generator.py --pdb protein.pdb --out cavity.atoms
 
 # Customization:
 By default, the list of target residues is hardcoded in the script:
