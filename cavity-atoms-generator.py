@@ -5,8 +5,8 @@ GOLD Blind Docking Binding Site Extractor
 
 Author      : Mine Isaoglu, Ph.D.
 Principal Investigator: Serdar Durdagi, Ph.D.
-Affiliation : Computational Drug Design Center (HITMER),
-              Faculty of Pharmacy, Bahçeşehir University, Istanbul
+Affiliation : Computational Drug Design Center (HITMER), Faculty of Pharmacy, Bahçeşehir University, Istanbul
+
 Version     : December 2024
 ##################################################################################################################### 
 """
