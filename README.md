@@ -8,7 +8,7 @@ This tool is based on a custom script developed to support blind docking studies
 
 To run:
 
-> python extract_atom_indices.py --pdb 1ABC.pdb --out cavity.atoms
+> python extract_atom_indices.py --pdb protein.pdb --out cavity.atoms
 
 # Customization:
 By default, the list of target residues is hardcoded in the script:
@@ -24,12 +24,12 @@ target_residues = [
 cavity.atoms – A text file containing 1-based atom serial numbers grouped in blocks of 10, ready to be used by GOLD for defining the binding cavity.
 
 # Notes:
-Atom indices are taken directly from columns 7–11 of standard RCSB-style PDB files.
-Only ATOM/HETATM records are parsed.
-The script will terminate with a warning if no matching residues are found.
-Compatible with any docking preparation workflow using GOLD.
+- `Atom indices are taken directly from columns 7–11 of standard RCSB-style PDB files.`
+- `Only ATOM/HETATM records are parsed.`
+- `The script will terminate with a warning if no matching residues are found.`
+- `Compatible with any docking preparation workflow using GOLD.`
 
 # Citation
-If this script contributes to your research, please cite:
+If you use this tool in your academic work, please cite:
 
 Computational Drug Design Center (HITMER), Faculty of Pharmacy, Bahçeşehir University, Istanbul, Turkey
