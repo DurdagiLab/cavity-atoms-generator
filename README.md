@@ -1,5 +1,5 @@
 # Cavity Atom Identifier Tool
-This tool is based on a custom script developed to support blind docking studies using the **GOLD** molecular docking software (Cambridge Crystallographic Data Centre, CCDC). It facilitates the identification of a user-defined binding site by extracting atom serial numbers from a standard PDB file for selected residues. These indices are formatted in blocks of ten, as required by the `cavity.atoms` input file used by GOLD.
+This tool is based on a custom Python script developed to support blind docking studies using the **GOLD** molecular docking software (Cambridge Crystallographic Data Centre, CCDC). It facilitates the identification of a user-defined binding site by extracting atom serial numbers from a standard PDB file for selected residues. These indices are formatted in blocks of ten, as required by the `cavity.atoms` input file used by GOLD.
 
 # Description
 **cavity-atoms-generator** is a lightweight, dependency-free utility that reads a PDB file and writes atom serial numbers of specified residues to a GOLD-compatible binding site definition file.
