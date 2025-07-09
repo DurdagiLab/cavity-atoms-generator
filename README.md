@@ -21,7 +21,7 @@ target_residues = [
 **To define a different binding region, manually edit this list within the script before execution.
 
 # Output:
-`cavity.atoms` - A text file containing 1-based atom serial numbers grouped in blocks of 10, ready to be used by GOLD for defining the binding cavity.
+`cavity.atoms` A text file containing 1-based atom serial numbers grouped in blocks of 10, ready to be used by GOLD for defining the binding cavity.
 
 # Notes:
 1. Atom indices are taken directly from columns 7-11 of standard RCSB-style PDB files.
