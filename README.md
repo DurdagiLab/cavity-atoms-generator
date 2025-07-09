@@ -32,4 +32,4 @@ cavity.atoms - A text file containing 1-based atom serial numbers grouped in blo
 # Citation
 If you use this tool in your academic work, please cite:
 
-Computational Drug Design Center (HITMER), Faculty of Pharmacy, Bahçeşehir University, Istanbul, Turkey
+Isaoğlu, M., & Durdağı, S. (2025). cavity-atoms-generator (Version 1.0) [Computer software]. Computational Drug Design Center (HITMER), Faculty of Pharmacy, Bahçeşehir University. https://github.com/DurdagiLab/cavity-atoms-generator
